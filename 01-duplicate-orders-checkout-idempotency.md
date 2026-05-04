@@ -14,7 +14,7 @@ This document walks through what I found in public complaint history, what I thi
 
 Reproduction is unintentional but mechanical:
 
-1. Open the Amazon iOS app. (Reproduces on web too; I haven't tested Android.)
+1. Open the Amazon app.
 2. Add an item to cart, proceed to checkout, confirm payment + address.
 3. Tap **Place Order**.
 4. While the request is in flight on a slow connection, tap it again.
